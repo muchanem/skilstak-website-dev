@@ -540,6 +540,7 @@ textarea.form-control {
 	font-size: 11px;
 	letter-spacing: 3px;
 	color: #222;
+	font: Arial;
 }
 
 .navbar-custom .nav li.active,
