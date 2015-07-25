@@ -7,6 +7,10 @@
  * Copyright 2015 Script Eden
  * Licensed under MIT
 */
+.parlinks .kidlinks { 
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
 
 body {
 	font: 300 14px/1.8 'Raleway', sans-serif;
@@ -968,10 +972,5 @@ figure.effect-bubba:hover p {
 		width: 80px;
 	}
 
-}
-
-.parlinks .kidlinks { 
-    text-decoration-line: underline;
-    text-decoration-style: dotted;
 }
 
