@@ -970,3 +970,8 @@ figure.effect-bubba:hover p {
 
 }
 
+.parlinks .kidlinks { 
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
