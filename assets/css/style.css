@@ -7,11 +7,10 @@
  * Copyright 2015 Script Eden
  * Licensed under MIT
 */
-.parlinks .kidlinks { 
-    text-decoration-line: underline;
-    text-decoration-style: dotted;
+.bmsg {
+	background-color: #E7746F;
+	color: #ffffff;
 }
-
 body {
 	font: 300 14px/1.8 'Raleway', sans-serif;
 	color: #666;
