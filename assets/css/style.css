@@ -8,6 +8,14 @@
  * Licensed under MIT
 */
 
+.type-text {
+	font-size: 30px;
+	animation: type 5s steps(50, end) 1;
+}
+@keyframes type{
+	from{ width: 0;}
+}
+
 /* Blinking Cursor from http://codepen.io */
 
 .blinking-cursor {
