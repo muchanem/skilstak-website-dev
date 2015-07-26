@@ -7,6 +7,18 @@
  * Copyright 2015 Script Eden
  * Licensed under MIT
 */
+
+/* Auto Type from http://codepen.io */
+
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+.type-text { 
+	font: bold 30px monospace;
+	-webkit-animation: typing 2s steps(21, end),
+	           blink-caret .5s step-end infinite alternate;
+}
+
 /* Blinking Cursor from http://codepen.io */
 
 .blinking-cursor {
