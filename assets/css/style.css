@@ -646,7 +646,7 @@ textarea.form-control {
 	padding: 0;
 }
 
-.navbar-custom .navbar-brand,
+.navbar-custom,
 .navbar-custom .navbar-nav > li > a,
 .navbar-custom .navbar-nav .dropdown-menu > li > a {
 	font-size: 11px;
@@ -667,7 +667,7 @@ textarea.form-control {
 .navbar-custom .navbar-brand {
 	font-weight: 700;
 	font-size: 22px;
-    font-family: Lobster, cursive;
+    font-family: Lobster;
 }
 
 .navbar-custom .dropdown-menu {
